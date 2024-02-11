@@ -1,0 +1,15 @@
+C:\mine\conways-game-of-life\backend\ConwayGameOfLife\bin\Debug\net8.0\ConwayGameOfLife.exe
+C:\mine\conways-game-of-life\backend\ConwayGameOfLife\bin\Debug\net8.0\ConwayGameOfLife.deps.json
+C:\mine\conways-game-of-life\backend\ConwayGameOfLife\bin\Debug\net8.0\ConwayGameOfLife.runtimeconfig.json
+C:\mine\conways-game-of-life\backend\ConwayGameOfLife\bin\Debug\net8.0\ConwayGameOfLife.dll
+C:\mine\conways-game-of-life\backend\ConwayGameOfLife\bin\Debug\net8.0\ConwayGameOfLife.pdb
+C:\mine\conways-game-of-life\backend\ConwayGameOfLife\obj\Debug\net8.0\ConwayGameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\mine\conways-game-of-life\backend\ConwayGameOfLife\obj\Debug\net8.0\ConwayGameOfLife.AssemblyInfoInputs.cache
+C:\mine\conways-game-of-life\backend\ConwayGameOfLife\obj\Debug\net8.0\ConwayGameOfLife.AssemblyInfo.cs
+C:\mine\conways-game-of-life\backend\ConwayGameOfLife\obj\Debug\net8.0\ConwayGameOfLife.csproj.CoreCompileInputs.cache
+C:\mine\conways-game-of-life\backend\ConwayGameOfLife\obj\Debug\net8.0\ConwayGameOfLife.sourcelink.json
+C:\mine\conways-game-of-life\backend\ConwayGameOfLife\obj\Debug\net8.0\ConwayGameOfLife.dll
+C:\mine\conways-game-of-life\backend\ConwayGameOfLife\obj\Debug\net8.0\refint\ConwayGameOfLife.dll
+C:\mine\conways-game-of-life\backend\ConwayGameOfLife\obj\Debug\net8.0\ConwayGameOfLife.pdb
+C:\mine\conways-game-of-life\backend\ConwayGameOfLife\obj\Debug\net8.0\ConwayGameOfLife.genruntimeconfig.cache
+C:\mine\conways-game-of-life\backend\ConwayGameOfLife\obj\Debug\net8.0\ref\ConwayGameOfLife.dll
