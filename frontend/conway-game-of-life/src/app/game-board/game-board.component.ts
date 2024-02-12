@@ -7,11 +7,6 @@ import { MatIconModule } from '@angular/material/icon'
 export type Bit = 0 | 1
 export type BitArray = Bit[]
 
-/**
- * TODO:
- *  1) Unit Test
- */
-
 @Component({
   selector: 'game-board',
   standalone: true,
@@ -115,7 +110,6 @@ export class GameBoardComponent {
   //#region Helpers
 
   private generateGameBoard (): (0 | 1)[][] {
-    // TODO: Figure this out and why it can be made a helper function`
     const oneOrZero = () => (Math.random() > 0.5 ? 1 : 0)
 
     return new Array(80)
