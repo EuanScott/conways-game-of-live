@@ -27,17 +27,24 @@ export class GameBoardComponent {
   }
 
   playGame (): void {
+    // if (this.isGamePlaying) {
+    //   this.animate()
+    // } else {
     this.isGamePlaying = true
     this.gameBoard = this.generateGameBoard()
     this.render(this.gameBoard)
     this.animate()
+    // }
   }
 
   pauseGame (): void {
     // TODO: Implement a pause button as per the spec
+    this.isGamePlaying = !this.isGamePlaying
+    console.log("The game should stop playing, but alas, the recursive animate method is being a little bit finiky :(")
   }
 
   resetGame (): void {
+    // this.isGamePlaying = false
     this.setupGameBoard()
     this.playGame()
   }
