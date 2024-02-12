@@ -1,8 +1,6 @@
 import { Component, ElementRef, ViewChild } from '@angular/core'
 
-// TODO: Move these imports to some kind of `base` class
-import { MatButtonModule } from '@angular/material/button'
-import { MatIconModule } from '@angular/material/icon'
+import { MaterialModule } from '../base/material-module'
 
 export type Bit = 0 | 1
 export type BitArray = Bit[]
@@ -10,7 +8,7 @@ export type BitArray = Bit[]
 @Component({
   selector: 'game-board',
   standalone: true,
-  imports: [MatButtonModule, MatIconModule],
+  imports: [MaterialModule],
   templateUrl: './game-board.component.html',
   styleUrl: './game-board.component.scss'
 })
@@ -36,7 +34,7 @@ export class GameBoardComponent {
   }
 
   pauseGame (): void {
-    // TODO
+    // TODO: Implement a pause button as per the spec
   }
 
   resetGame (): void {
