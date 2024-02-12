@@ -4,7 +4,6 @@ using System.Threading;
 
 namespace ConwayGameOfLife
 {
-
   public class GameBoardComponent
   {
 
@@ -23,7 +22,6 @@ namespace ConwayGameOfLife
         Thread.Sleep(125);
       }
     }
-
 
     private void CreateNextGeneration(int[][] gameBoard)
     {

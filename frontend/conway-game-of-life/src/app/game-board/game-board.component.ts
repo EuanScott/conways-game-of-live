@@ -49,6 +49,8 @@ export class GameBoardComponent {
     this.playGame()
   }
 
+  // TODO: See about moving the code for creating & updating the board to some sort of shared service
+
   private setupGameBoard (): void {
     this.canvas.nativeElement.width = 800
     this.canvas.nativeElement.height = 800
